@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Web Development and Data Science**
 
-- 👨‍💻 All of my projects are available at [http://rakeshpandey.com.np](http://rakeshpandey.com.np)
+- 👨‍💻 All of my projects are available at [rakeshpandey.com.np](https://rakeshpandey.com.np)
 
 - 📫 How to reach me **rp901522@gmail.com**
 
